@@ -7,6 +7,9 @@ ToDoCrud é uma aplicação web simples para registro de tarefas (ToDo) do dia-a
 **Grupo:** Data Apresentação e Entrega: 19/06/2023
 **Valor:** 20 pontos
 
+## Documento de Referência
+https://drive.google.com/file/d/10pc0O_OkkvCHlpTIrtnzaDZX1wXI3DVi/view
+
 ## Instruções
 1. A turma deve ser dividida em grupos de no máximo 3 alunos. O grupo deve criar um repositório no github para disponibilizar o código fonte.
 2. Deve ser entregue o código funcional no repositório e este mesmo código apresentado para o professor. Se a aplicação apresentada não condiz com o código no github, a avaliação será nula, assim como apresentação de programas que não executam.
